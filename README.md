@@ -11,8 +11,6 @@ Mini guia acolhedor e direto ao ponto criado para orientar quem está começando
 Utilizei prompts específicos simulando a mentoria de um desenvolvedor experiente para organizar conselhos práticos e realistas para iniciantes. Em seguida, gerei uma imagem fotográfica de alta qualidade para ilustrar o material.
 
 ## 🚀 Resultados
-### Capa do Projeto:
-(Pegue a foto salva no seu computador, arraste e solte ela bem aqui dentro!)
 
 ---
 
